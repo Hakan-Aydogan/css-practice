@@ -1,0 +1,29 @@
+body {
+  font-family: "Roboto";
+}
+
+.card {
+  width: 300px;
+  background-color: rgb(255, 240, 220);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+.card .card-content {
+  padding: 15px;
+}
+
+.card h3 {
+  margin: 0;
+}
+
+.card .btn {
+  text-decoration: none;
+  background-color: chocolate;
+  padding: 10px 20px;
+  border: none;
+  display: inline-block;
+  color: aliceblue;
+}
